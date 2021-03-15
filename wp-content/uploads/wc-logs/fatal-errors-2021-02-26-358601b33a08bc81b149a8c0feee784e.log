@@ -1,0 +1,18 @@
+2021-02-26T12:47:36+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on bool in /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:281
+Stack trace:
+#0 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(162): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions()
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions()
+#2 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#3 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#4 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#5 /var/www/vhos, em /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php, na linha 281
+
+2021-02-26T13:34:37+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on bool in /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:281
+Stack trace:
+#0 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(162): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions()
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions()
+#2 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#3 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#4 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#5 /var/www/vhos, em /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php, na linha 281
+

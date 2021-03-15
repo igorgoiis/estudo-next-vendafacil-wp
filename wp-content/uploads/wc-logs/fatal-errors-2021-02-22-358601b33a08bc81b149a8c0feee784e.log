@@ -1,0 +1,18 @@
+2021-02-22T16:50:06+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify()
+#1 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#4 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/plugin.php(544): WP_Hook->do_action()
+#5 /var/www/vhosts/template1., em /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php, na linha 162
+
+2021-02-22T16:55:54+00:00 CRITICAL Uncaught Error: Call to undefined method MonsterInsights_License_Compat::get_license_type() in /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php:162
+Stack trace:
+#0 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(132): MonsterInsights_Notifications->verify()
+#1 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php(308): MonsterInsights_Notifications->fetch_feed()
+#2 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/class-wp-hook.php(287): MonsterInsights_Notifications->update()
+#3 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#4 /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-includes/plugin.php(544): WP_Hook->do_action()
+#5 /var/www/vhosts/template1., em /var/www/vhosts/template1.vendafacilapp.com.br/httpdocs/wp-content/plugins/google-analytics-for-wordpress/includes/admin/notifications.php, na linha 162
+

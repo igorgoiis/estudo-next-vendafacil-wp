@@ -1,0 +1,259 @@
+[2020-07-26 12:54:32 : INFO] - Re_Smush_It_Task with attachment ID : 6, autocreated on : July 26, 2020 12:54:32 
+[2020-07-26 12:57:03 : INFO] - Re_Smush_It_Task with attachment ID : 11, autocreated on : July 26, 2020 12:57:03 
+[2020-07-26 12:57:12 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : July 26, 2020 12:57:12 
+[2020-07-26 12:57:14 : INFO] - Re_Smush_It_Task with attachment ID : 21, autocreated on : July 26, 2020 12:57:14 
+[2020-07-26 12:57:15 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : July 26, 2020 12:57:15 
+[2020-07-26 12:57:16 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : July 26, 2020 12:57:16 
+[2020-07-26 13:00:11 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : July 26, 2020 01:00:11 
+[2020-07-26 13:00:11 : INFO] - 
+ 
+[2020-07-26 13:00:11 : INFO] - Header for logs at time:  Sun, 26 Jul 2020 13:00:11 +0000 on https://teste.otimizeit.com.br 
+[2020-07-26 13:00:11 : INFO] - WP: 5.4.2 
+[2020-07-26 13:00:11 : INFO] - PHP: 7.3.14 (fpm-fcgi, Linux ip-172-26-7-105 4.4.0-1102-aws #113-Ubuntu SMP Wed Jan 29 14:54:54 UTC 2020 x86_64) 
+[2020-07-26 13:00:11 : INFO] - MySQL: 8.0.18 
+[2020-07-26 13:00:11 : INFO] - WPLANG: pt_BR 
+[2020-07-26 13:00:11 : INFO] - Server: Apache 
+[2020-07-26 13:00:11 : INFO] - Outbound connections: N 
+[2020-07-26 13:00:11 : INFO] - safe_mode: 0 
+[2020-07-26 13:00:11 : INFO] - max_execution_time: 120 
+[2020-07-26 13:00:11 : INFO] - memory_limit: 512M (used: 16.5M | 2M) 
+[2020-07-26 13:00:11 : INFO] - multisite: N 
+[2020-07-26 13:00:11 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-07-26 13:00:11 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2020-07-26 13:00:11 : INFO] - Set semaphore last lock (smush) time to 2020-07-26 13:00:11 
+[2020-07-26 13:00:11 : INFO] - Semaphore lock (smush) complete 
+[2020-07-26 13:00:11 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2020-07-26 13:00:11 : INFO] - Re_Smush_It_Task with attachment ID : 6, autocreated on : July 26, 2020 12:54:32 
+[2020-07-26 13:00:11 : INFO] - 95 
+[2020-07-26 13:00:13 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2020-07-26 13:00:13 : INFO] - Re_Smush_It_Task with attachment ID : 6, autocreated on : July 26, 2020 12:54:32 
+[2020-07-26 13:00:13 : INFO] - 95 
+[2020-07-26 13:00:13 : INFO] - Re_Smush_It_Task with attachment ID : 6, autocreated on : July 26, 2020 12:54:32 
+[2020-07-26 13:00:13 : INFO] - 95 
+[2020-07-26 13:00:14 : INFO] - Re_Smush_It_Task with attachment ID : 6, autocreated on : July 26, 2020 12:54:32 
+[2020-07-26 13:00:14 : INFO] - 95 
+[2020-07-26 13:00:15 : INFO] - Re_Smush_It_Task with attachment ID : 6, autocreated on : July 26, 2020 12:54:32 
+[2020-07-26 13:00:15 : INFO] - 95 
+[2020-07-26 13:00:16 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 100.24 KB to 73.05 KB saving 27.12 percent using WP-Optimize 
+[2020-07-26 13:00:16 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2020-07-26 13:00:16 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2020-07-26 13:00:16 : INFO] - Task with ID 2 and type (smush) failed with error code invalid_file_type - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/07/wc-product-export-26-7-2020-1595768031329.csv - cannot be optimized, it has an invalid file type 
+[2020-07-26 13:00:16 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2020-07-26 13:00:16 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : July 26, 2020 12:57:12 
+[2020-07-26 13:00:16 : INFO] - 95 
+[2020-07-26 13:00:17 : INFO] - Backing up the original image - 2020/07/produto-quietbook1-updraft-pre-smush-original.jpg 
+[2020-07-26 13:00:17 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : July 26, 2020 12:57:12 
+[2020-07-26 13:00:17 : INFO] - 95 
+[2020-07-26 13:00:18 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : July 26, 2020 12:57:12 
+[2020-07-26 13:00:18 : INFO] - 95 
+[2020-07-26 13:00:19 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : July 26, 2020 12:57:12 
+[2020-07-26 13:00:19 : INFO] - 95 
+[2020-07-26 13:00:19 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : July 26, 2020 12:57:12 
+[2020-07-26 13:00:19 : INFO] - 95 
+[2020-07-26 13:00:20 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : July 26, 2020 12:57:12 
+[2020-07-26 13:00:20 : INFO] - 95 
+[2020-07-26 13:00:21 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : July 26, 2020 12:57:12 
+[2020-07-26 13:00:21 : INFO] - 95 
+[2020-07-26 13:00:22 : INFO] - Re_Smush_It_Task with attachment ID : 20, autocreated on : July 26, 2020 12:57:12 
+[2020-07-26 13:00:22 : INFO] - 95 
+[2020-07-26 13:00:22 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/07/produto-quietbook1.jpg.The file was compressed from 325.45 KB to 325.45 KB saving 0 percent using WP-Optimize 
+[2020-07-26 13:00:22 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2020-07-26 13:00:22 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2020-07-26 13:00:22 : INFO] - Re_Smush_It_Task with attachment ID : 21, autocreated on : July 26, 2020 12:57:14 
+[2020-07-26 13:00:22 : INFO] - 95 
+[2020-07-26 13:00:23 : INFO] - Backing up the original image - 2020/07/produto-sensorybag1-updraft-pre-smush-original.jpg 
+[2020-07-26 13:00:23 : INFO] - Re_Smush_It_Task with attachment ID : 21, autocreated on : July 26, 2020 12:57:14 
+[2020-07-26 13:00:23 : INFO] - 95 
+[2020-07-26 13:00:24 : INFO] - Re_Smush_It_Task with attachment ID : 21, autocreated on : July 26, 2020 12:57:14 
+[2020-07-26 13:00:24 : INFO] - 95 
+[2020-07-26 13:00:24 : INFO] - Re_Smush_It_Task with attachment ID : 21, autocreated on : July 26, 2020 12:57:14 
+[2020-07-26 13:00:24 : INFO] - 95 
+[2020-07-26 13:00:25 : INFO] - Re_Smush_It_Task with attachment ID : 21, autocreated on : July 26, 2020 12:57:14 
+[2020-07-26 13:00:25 : INFO] - 95 
+[2020-07-26 13:00:25 : INFO] - Re_Smush_It_Task with attachment ID : 21, autocreated on : July 26, 2020 12:57:14 
+[2020-07-26 13:00:25 : INFO] - 95 
+[2020-07-26 13:00:26 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/07/produto-sensorybag1.jpg.The file was compressed from 90.59 KB to 90.59 KB saving 0 percent using WP-Optimize 
+[2020-07-26 13:00:26 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2020-07-26 13:00:26 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2020-07-26 13:00:26 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : July 26, 2020 12:57:15 
+[2020-07-26 13:00:26 : INFO] - 95 
+[2020-07-26 13:00:27 : INFO] - Backing up the original image - 2020/07/produto-sensorybag2-updraft-pre-smush-original.jpg 
+[2020-07-26 13:00:27 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : July 26, 2020 12:57:15 
+[2020-07-26 13:00:27 : INFO] - 95 
+[2020-07-26 13:00:28 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : July 26, 2020 12:57:15 
+[2020-07-26 13:00:28 : INFO] - 95 
+[2020-07-26 13:00:28 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : July 26, 2020 12:57:15 
+[2020-07-26 13:00:28 : INFO] - 95 
+[2020-07-26 13:00:29 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : July 26, 2020 12:57:15 
+[2020-07-26 13:00:29 : INFO] - 95 
+[2020-07-26 13:00:30 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : July 26, 2020 12:57:15 
+[2020-07-26 13:00:30 : INFO] - 95 
+[2020-07-26 13:00:30 : INFO] - Re_Smush_It_Task with attachment ID : 22, autocreated on : July 26, 2020 12:57:15 
+[2020-07-26 13:00:30 : INFO] - 95 
+[2020-07-26 13:00:31 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/07/produto-sensorybag2.jpg.The file was compressed from 157.63 KB to 157.63 KB saving 0 percent using WP-Optimize 
+[2020-07-26 13:00:31 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2020-07-26 13:00:31 : INFO] - Set semaphore last lock (smush) time to 2020-07-26 13:00:31 
+[2020-07-26 13:00:31 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2020-07-26 13:00:31 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : July 26, 2020 12:57:16 
+[2020-07-26 13:00:31 : INFO] - 95 
+[2020-07-26 13:00:31 : INFO] - Backing up the original image - 2020/07/produto-brinquedo-educativo-updraft-pre-smush-original.jpg 
+[2020-07-26 13:00:31 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : July 26, 2020 12:57:16 
+[2020-07-26 13:00:31 : INFO] - 95 
+[2020-07-26 13:00:32 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : July 26, 2020 12:57:16 
+[2020-07-26 13:00:32 : INFO] - 95 
+[2020-07-26 13:00:33 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : July 26, 2020 12:57:16 
+[2020-07-26 13:00:33 : INFO] - 95 
+[2020-07-26 13:00:33 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : July 26, 2020 12:57:16 
+[2020-07-26 13:00:33 : INFO] - 95 
+[2020-07-26 13:00:34 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/07/produto-brinquedo-educativo.jpg.The file was compressed from 19.04 KB to 19.04 KB saving 0 percent using WP-Optimize 
+[2020-07-26 13:00:34 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2020-07-26 13:00:34 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2020-07-26 13:00:34 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : July 26, 2020 01:00:11 
+[2020-07-26 13:00:34 : INFO] - 95 
+[2020-07-26 13:00:34 : INFO] - Backing up the original image - 2020/07/Marca-Caixa-de-Artes-02-1-updraft-pre-smush-original.png 
+[2020-07-26 13:00:34 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : July 26, 2020 01:00:11 
+[2020-07-26 13:00:34 : INFO] - 95 
+[2020-07-26 13:00:35 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : July 26, 2020 01:00:11 
+[2020-07-26 13:00:35 : INFO] - 95 
+[2020-07-26 13:00:36 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : July 26, 2020 01:00:11 
+[2020-07-26 13:00:36 : INFO] - 95 
+[2020-07-26 13:00:36 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : July 26, 2020 01:00:11 
+[2020-07-26 13:00:36 : INFO] - 95 
+[2020-07-26 13:00:37 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : July 26, 2020 01:00:11 
+[2020-07-26 13:00:37 : INFO] - 95 
+[2020-07-26 13:00:38 : INFO] - Re_Smush_It_Task with attachment ID : 26, autocreated on : July 26, 2020 01:00:11 
+[2020-07-26 13:00:38 : INFO] - 95 
+[2020-07-26 13:00:38 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/07/Marca-Caixa-de-Artes-02-1.png.The file was compressed from 28.09 KB to 28.08 KB saving 0.05 percent using WP-Optimize 
+[2020-07-26 13:00:38 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2020-07-26 13:00:38 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-26 13:00:38 : INFO] - Semaphore (smush) unlocked 
+[2020-07-26 13:00:38 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2020-07-26 13:00:38 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-26 13:00:38 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
+[2020-07-26 13:12:06 : INFO] - 
+ 
+[2020-07-26 13:12:06 : INFO] - Header for logs at time:  Sun, 26 Jul 2020 13:12:06 +0000 on https://teste.otimizeit.com.br 
+[2020-07-26 13:12:06 : INFO] - WP: 5.4.2 
+[2020-07-26 13:12:06 : INFO] - PHP: 7.3.14 (fpm-fcgi, Linux ip-172-26-7-105 4.4.0-1102-aws #113-Ubuntu SMP Wed Jan 29 14:54:54 UTC 2020 x86_64) 
+[2020-07-26 13:12:06 : INFO] - MySQL: 8.0.18 
+[2020-07-26 13:12:06 : INFO] - WPLANG: pt_BR 
+[2020-07-26 13:12:06 : INFO] - Server: Apache 
+[2020-07-26 13:12:06 : INFO] - Outbound connections: N 
+[2020-07-26 13:12:06 : INFO] - safe_mode: 0 
+[2020-07-26 13:12:06 : INFO] - max_execution_time: 120 
+[2020-07-26 13:12:06 : INFO] - memory_limit: 512M (used: 18.1M | 2M) 
+[2020-07-26 13:12:06 : INFO] - multisite: N 
+[2020-07-26 13:12:06 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-07-26 13:12:06 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-07-26 13:15:48 : INFO] - Re_Smush_It_Task with attachment ID : 28, autocreated on : July 26, 2020 01:15:48 
+[2020-07-26 13:18:46 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : July 26, 2020 01:18:46 
+[2020-07-26 13:20:51 : INFO] - 
+ 
+[2020-07-26 13:20:51 : INFO] - Header for logs at time:  Sun, 26 Jul 2020 13:20:51 +0000 on https://teste.otimizeit.com.br 
+[2020-07-26 13:20:51 : INFO] - WP: 5.4.2 
+[2020-07-26 13:20:51 : INFO] - PHP: 7.3.14 (fpm-fcgi, Linux ip-172-26-7-105 4.4.0-1102-aws #113-Ubuntu SMP Wed Jan 29 14:54:54 UTC 2020 x86_64) 
+[2020-07-26 13:20:51 : INFO] - MySQL: 8.0.18 
+[2020-07-26 13:20:51 : INFO] - WPLANG: pt_BR 
+[2020-07-26 13:20:51 : INFO] - Server: Apache 
+[2020-07-26 13:20:51 : INFO] - Outbound connections: N 
+[2020-07-26 13:20:51 : INFO] - safe_mode: 0 
+[2020-07-26 13:20:51 : INFO] - max_execution_time: 120 
+[2020-07-26 13:20:51 : INFO] - memory_limit: 512M (used: 18.2M | 2M) 
+[2020-07-26 13:20:51 : INFO] - multisite: N 
+[2020-07-26 13:20:51 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-07-26 13:20:51 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-07-26 13:20:51 : INFO] - Set semaphore last lock (smush) time to 2020-07-26 13:20:51 
+[2020-07-26 13:20:51 : INFO] - Semaphore lock (smush) complete 
+[2020-07-26 13:20:51 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2020-07-26 13:20:51 : INFO] - Re_Smush_It_Task with attachment ID : 28, autocreated on : July 26, 2020 01:15:48 
+[2020-07-26 13:20:51 : INFO] - 95 
+[2020-07-26 13:20:53 : INFO] - Backing up the original image - 2020/07/New-Project-updraft-pre-smush-original.jpg 
+[2020-07-26 13:20:53 : INFO] - Re_Smush_It_Task with attachment ID : 28, autocreated on : July 26, 2020 01:15:48 
+[2020-07-26 13:20:53 : INFO] - 95 
+[2020-07-26 13:20:53 : INFO] - Re_Smush_It_Task with attachment ID : 28, autocreated on : July 26, 2020 01:15:48 
+[2020-07-26 13:20:53 : INFO] - 95 
+[2020-07-26 13:20:54 : INFO] - Re_Smush_It_Task with attachment ID : 28, autocreated on : July 26, 2020 01:15:48 
+[2020-07-26 13:20:54 : INFO] - 95 
+[2020-07-26 13:20:54 : INFO] - Re_Smush_It_Task with attachment ID : 28, autocreated on : July 26, 2020 01:15:48 
+[2020-07-26 13:20:54 : INFO] - 95 
+[2020-07-26 13:20:55 : INFO] - Re_Smush_It_Task with attachment ID : 28, autocreated on : July 26, 2020 01:15:48 
+[2020-07-26 13:20:55 : INFO] - 95 
+[2020-07-26 13:20:56 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/07/New-Project.jpg.The file was compressed from 503.23 KB to 161.27 KB saving 67.95 percent using WP-Optimize 
+[2020-07-26 13:20:56 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2020-07-26 13:20:56 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2020-07-26 13:20:56 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : July 26, 2020 01:18:46 
+[2020-07-26 13:20:56 : INFO] - 95 
+[2020-07-26 13:20:57 : INFO] - Backing up the original image - 2020/07/livro-sensorial-quiet-book-ler-a-descrico-D_NQ_NP_707767-MLB31684683669_082019-F-updraft-pre-smush-original.jpg 
+[2020-07-26 13:20:57 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : July 26, 2020 01:18:46 
+[2020-07-26 13:20:57 : INFO] - 95 
+[2020-07-26 13:20:57 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : July 26, 2020 01:18:46 
+[2020-07-26 13:20:57 : INFO] - 95 
+[2020-07-26 13:20:58 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : July 26, 2020 01:18:46 
+[2020-07-26 13:20:58 : INFO] - 95 
+[2020-07-26 13:20:58 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : July 26, 2020 01:18:46 
+[2020-07-26 13:20:58 : INFO] - 95 
+[2020-07-26 13:20:59 : INFO] - Re_Smush_It_Task with attachment ID : 29, autocreated on : July 26, 2020 01:18:46 
+[2020-07-26 13:20:59 : INFO] - 95 
+[2020-07-26 13:21:00 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/07/livro-sensorial-quiet-book-ler-a-descrico-D_NQ_NP_707767-MLB31684683669_082019-F.jpg.The file was compressed from 107.16 KB to 94.41 KB saving 11.89 percent using WP-Optimize 
+[2020-07-26 13:21:00 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2020-07-26 13:21:00 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-26 13:21:00 : INFO] - Semaphore (smush) unlocked 
+[2020-07-26 13:21:00 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-07-26 13:21:00 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-26 13:21:00 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-07-26 13:21:25 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : July 26, 2020 01:21:25 
+[2020-07-26 13:31:00 : INFO] - 
+ 
+[2020-07-26 13:31:00 : INFO] - Header for logs at time:  Sun, 26 Jul 2020 13:31:00 +0000 on https://teste.otimizeit.com.br 
+[2020-07-26 13:31:00 : INFO] - WP: 5.4.2 
+[2020-07-26 13:31:00 : INFO] - PHP: 7.3.14 (fpm-fcgi, Linux ip-172-26-7-105 4.4.0-1102-aws #113-Ubuntu SMP Wed Jan 29 14:54:54 UTC 2020 x86_64) 
+[2020-07-26 13:31:00 : INFO] - MySQL: 8.0.18 
+[2020-07-26 13:31:00 : INFO] - WPLANG: pt_BR 
+[2020-07-26 13:31:00 : INFO] - Server: Apache 
+[2020-07-26 13:31:00 : INFO] - Outbound connections: N 
+[2020-07-26 13:31:00 : INFO] - safe_mode: 0 
+[2020-07-26 13:31:00 : INFO] - max_execution_time: 120 
+[2020-07-26 13:31:00 : INFO] - memory_limit: 512M (used: 18.2M | 2M) 
+[2020-07-26 13:31:00 : INFO] - multisite: N 
+[2020-07-26 13:31:00 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-07-26 13:31:00 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-07-26 13:31:00 : INFO] - Set semaphore last lock (smush) time to 2020-07-26 13:31:00 
+[2020-07-26 13:31:00 : INFO] - Semaphore lock (smush) complete 
+[2020-07-26 13:31:00 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2020-07-26 13:31:00 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : July 26, 2020 01:21:25 
+[2020-07-26 13:31:00 : INFO] - 95 
+[2020-07-26 13:31:01 : INFO] - Backing up the original image - 2020/07/1e5c41ab7f6c29ab73f4ad32e1001af5-updraft-pre-smush-original.jpeg 
+[2020-07-26 13:31:01 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : July 26, 2020 01:21:25 
+[2020-07-26 13:31:01 : INFO] - 95 
+[2020-07-26 13:31:02 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : July 26, 2020 01:21:25 
+[2020-07-26 13:31:02 : INFO] - 95 
+[2020-07-26 13:31:02 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : July 26, 2020 01:21:25 
+[2020-07-26 13:31:02 : INFO] - 95 
+[2020-07-26 13:31:03 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : July 26, 2020 01:21:25 
+[2020-07-26 13:31:03 : INFO] - 95 
+[2020-07-26 13:31:04 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : July 26, 2020 01:21:25 
+[2020-07-26 13:31:04 : INFO] - 95 
+[2020-07-26 13:31:05 : INFO] - Re_Smush_It_Task with attachment ID : 30, autocreated on : July 26, 2020 01:21:25 
+[2020-07-26 13:31:05 : INFO] - 95 
+[2020-07-26 13:31:05 : INFO] - Successfully optimized the image - /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/07/1e5c41ab7f6c29ab73f4ad32e1001af5.jpeg.The file was compressed from 166.82 KB to 154.25 KB saving 7.53 percent using WP-Optimize 
+[2020-07-26 13:31:05 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2020-07-26 13:31:05 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-07-26 13:31:05 : INFO] - Semaphore (smush) unlocked 
+[2020-07-26 13:31:05 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-07-26 13:31:05 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-07-26 13:31:05 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-07-26 13:41:06 : INFO] - 
+ 
+[2020-07-26 13:41:06 : INFO] - Header for logs at time:  Sun, 26 Jul 2020 13:41:06 +0000 on https://teste.otimizeit.com.br 
+[2020-07-26 13:41:06 : INFO] - WP: 5.4.2 
+[2020-07-26 13:41:06 : INFO] - PHP: 7.3.14 (fpm-fcgi, Linux ip-172-26-7-105 4.4.0-1102-aws #113-Ubuntu SMP Wed Jan 29 14:54:54 UTC 2020 x86_64) 
+[2020-07-26 13:41:06 : INFO] - MySQL: 8.0.18 
+[2020-07-26 13:41:06 : INFO] - WPLANG: pt_BR 
+[2020-07-26 13:41:06 : INFO] - Server: Apache 
+[2020-07-26 13:41:06 : INFO] - Outbound connections: N 
+[2020-07-26 13:41:06 : INFO] - safe_mode: 0 
+[2020-07-26 13:41:06 : INFO] - max_execution_time: 120 
+[2020-07-26 13:41:06 : INFO] - memory_limit: 512M (used: 18.1M | 2M) 
+[2020-07-26 13:41:06 : INFO] - multisite: N 
+[2020-07-26 13:41:06 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-07-26 13:41:06 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

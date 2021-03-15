@@ -1,0 +1,4 @@
+/*!/wp-content/plugins/woo-added-to-cart-notification/assets/js/frontend.js*/
+'use strict';jQuery(document).ready(function($){$('body').on('click','#wooac-continue',function(e){var url=$(this).attr('data-url');$.magnificPopup.close();if(url!=''){window.location.href=url}
+e.preventDefault()})});jQuery(document.body).on('added_to_cart',function(e){setTimeout(function(){wooac_show()},parseInt(wooac_vars.delay))});function wooac_show(){if(jQuery.trim(jQuery('.wooac-popup').html()).length){jQuery.magnificPopup.open({items:{src:jQuery('.wooac-popup'),type:'inline',},mainClass:'mfp-wooac',callbacks:{beforeOpen:function(){this.st.mainClass='mfp-wooac '+wooac_vars.effect},},})}}
+;
